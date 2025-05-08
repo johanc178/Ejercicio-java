@@ -19,9 +19,8 @@ public class App {
         } else {
             System.out.println("Ambos números son iguales.");
         }
-        
-         sc.close();
 
+    
+        sc.close();
     }
 }
-
